@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Project-09-Tryunfo/static/css/main.e6c13ad2.css",
+    "main.js": "/Project-09-Tryunfo/static/js/main.b1adbf4f.js",
+    "index.html": "/Project-09-Tryunfo/index.html",
+    "main.e6c13ad2.css.map": "/Project-09-Tryunfo/static/css/main.e6c13ad2.css.map",
+    "main.b1adbf4f.js.map": "/Project-09-Tryunfo/static/js/main.b1adbf4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b1adbf4f.js"
+  ]
+}
